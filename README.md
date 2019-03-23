@@ -1,11 +1,5 @@
 ## 使用教程
 
----
-
-
-#### 调用插件
-> [http://10.204.28.137/allenguo/Prometheus/blob/master/prometheus.go](http://10.204.28.137/allenguo/Prometheus/blob/master/prometheus.go)
-
 
 ---
 
